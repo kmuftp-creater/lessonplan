@@ -1,0 +1,18 @@
+{
+  "name": "lessonplan",
+  "title": "教案備課漢",
+  "status": "done",
+  "category": "教學工具",
+  "cycles": [
+    { "start": "2026-06-13", "end": "2026-06-15", "note": "整合 9 個產生器為串接式備課工具，完成 v1.8.x" }
+  ],
+  "summary": "把 9 個講師工具整合成單一 HTML、串接式備課管線的備課工具（霍家私塾·伊森老師），純前端免安裝。",
+  "progress": "已完成：7 站串接式備課管線（大綱→教案→時間軸→講師稿→簡報→講義→上課模式）、接案商務（提案／報價／IP）、課後經營（反思／品牌頁／OKR）、亮暗雙模式與響應式、公開分享版 v1.8.5。\n（已完工）",
+  "notes": "",
+  "host": "DESKTOP-QFH2DB4",
+  "path": "D:\\兩性課程影片網址\\Antigravity-design\\260613-Lesson Plan",
+  "apps": ["Antigravity", "Claude"],
+  "tags": ["教案", "講師", "HTML"],
+  "updatedAt": "2026-06-19",
+  "completedAt": null
+}
