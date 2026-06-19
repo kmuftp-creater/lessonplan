@@ -12,6 +12,9 @@
   "host": "DESKTOP-QFH2DB4",
   "path": "D:\\兩性課程影片網址\\Antigravity-design\\260613-Lesson Plan",
   "apps": ["Antigravity", "Claude"],
+  "links": [
+    { "label": "線上版", "url": "https://kmuftp-creater.github.io/lessonplan" }
+  ],
   "tags": ["教案", "講師", "HTML"],
   "updatedAt": "2026-06-19",
   "completedAt": null
